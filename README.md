@@ -9,7 +9,7 @@ Este proyecto es una aplicación simple de gestión de empleados en C# que inclu
 
 2. **Clonar el Repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/Camacho_Victor_POO.git
+   git clone https://github.com/vacamacho1/Camacho_Victor_POO.git
    
 # Abrir el Proyecto
 
